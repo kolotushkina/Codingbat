@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * created by Raushan_Safiullin
  *
  */
-public class Functionality1 {
+public class Functional1 {
 	
 	//Functional mapping operations on lists with lambdas. See the Java Functional Mapping page for an introduction. The main computation for each of these problems can be done with 1 line of lambda code.
 	
