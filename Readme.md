@@ -1,1 +1,0 @@
-Solutions for codingbat.com
